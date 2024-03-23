@@ -1,0 +1,72 @@
+.App {
+	text-align: center;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.App-title {
+	font-size: 3em;
+	font-weight: bold;
+	color: rgb(255, 255, 255);
+
+}
+
+.App-header{
+	top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+	position: relative;
+	width: 100%;
+}
+
+.home-title {
+    font-size: 2em;
+    text-align: center;
+	position: relative;
+}
+
+
+.video{
+	border: 5px solid black;
+	border-radius: 5px;
+}
+
+.boldComma {
+	font-weight: bold;
+	font-style: italic;
+  }
+
+.MuiButton-contained {
+	background-color: #487547 !important;
+	color: white !important;
+	margin-top: 20px !important;
+  }
+  
+  .MuiButton-contained:hover {
+	background-color: rgb(88, 88, 88) !important;
+  }
+
+  a > .MuiButton-root { 
+	text-decoration: none !important;
+	color: inherit !important;
+  }
+
+  a > .MuiButton-root:hover { 
+	text-decoration: none !important;
+	color: inherit !important;
+  }
+  
+  footer {
+	text-align: left;
+	position: fixed;
+	bottom: 0;
+	padding-inline: 20px;
+	right: 0;
+	opacity: 80%;
+	background: rgba(255, 255, 255, 0.18);
+  }
+  
