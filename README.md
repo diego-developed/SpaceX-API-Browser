@@ -1,8 +1,11 @@
-# React + Vite
+# SpaceX API Browser
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the SpcaeX API browser!
 
-Currently, two official plugins are available:
+This application reads the JSON data from the [SpaceX API](https://github.com/r-spacex/SpaceX-API/tree/master) and provides a lovley UI to navigate the intertwined data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started, make sure you have npm installed and the run 'npm install' to install all the required packages.
+
+Once the installation has completed, run 'npm run dev' to access the application at http://localhost:5173/.
+
+And that's it! Everything in green can be interacted with, so have fun exploring
