@@ -8,4 +8,4 @@ To get started, make sure you have npm installed and the run `npm install` to in
 
 Once the installation has completed, run `npm run dev` to access the application at http://localhost:5173/.
 
-And that's it! Everything in green can be interacted with, so have fun exploring
+And that's it! Everything in green can be interacted with, so have fun exploring!
